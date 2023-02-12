@@ -10,5 +10,5 @@ make all
 ./bin/fat
 ```
 
-- **Website:** https://astroimpact.net
+- **Website:** http://astroimpact.net
 - **Forum Thread:** https://forum.linuxfoundation.org/discussion/862942/astroimpact-the-foss-space-game
