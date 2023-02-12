@@ -11,3 +11,4 @@ make all
 ```
 
 **Website:** https://astroimpact.net
+**Forum Thread:** https://forum.linuxfoundation.org/discussion/862942/astroimpact-the-foss-space-game#latest
