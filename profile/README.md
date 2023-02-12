@@ -2,7 +2,7 @@
 
 AstroImpact is a free and open source online multiplayer space game that is in development exclusively for Linux.
 
-![Screenshot of the Space Miner game](https://us.v-cdn.net/6030874/uploads/editor/aa/ubn8tqbf6irz.png)
+![Screenshot of the AstroImpact game](https://us.v-cdn.net/6030874/uploads/editor/aa/ubn8tqbf6irz.png)
 
 Installation Instructions
 ```
