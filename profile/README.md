@@ -13,4 +13,5 @@ make all
 ```
 
 - **Website:** http://astroimpact.net
+- **NotABug:** https://notabug.org/AstroImpact/AstroImpact
 - **Forum Thread:** https://forum.linuxfoundation.org/discussion/862942/astroimpact-the-foss-space-game
