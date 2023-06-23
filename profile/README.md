@@ -14,4 +14,5 @@ make all
 
 - **Website:** http://astroimpact.net
 - **NotABug:** https://notabug.org/AstroImpact/AstroImpact
+- **Vimeo:** https://vimeo.com/836414581
 - **Forum Thread:** https://forum.linuxfoundation.org/discussion/862942/astroimpact-the-foss-space-game
