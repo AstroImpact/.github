@@ -13,6 +13,8 @@ make all
 ```
 
 - **Website:** http://astroimpact.net
+- **GitHub:** https://github.com/mrbidAstroImpact
 - **NotABug:** https://notabug.org/AstroImpact/AstroImpact
 - **Vimeo:** https://vimeo.com/836414581
+- **YouTube:** https://www.youtube.com/watch?v=5qUD3DM8rD8
 - **Forum Thread:** https://forum.linuxfoundation.org/discussion/862942/astroimpact-the-foss-space-game
