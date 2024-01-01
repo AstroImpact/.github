@@ -12,6 +12,8 @@ make all
 ./bin/fat
 ```
 
+- **Flathub:** https://flathub.org/apps/com.voxdsp.AstroImpact
+- **Snapcraft:** https://snapcraft.io/astroimpact
 - **Website:** http://astroimpact.net
 - **GitHub:** https://github.com/mrbidAstroImpact
 - **NotABug:** https://notabug.org/AstroImpact/AstroImpact
